@@ -106,6 +106,6 @@ Get the root key from https://app.unkey.com/settings/root-keys
 
 This project is licensed under the MIT License.
 
-## Contact
+## Further information
 
-For any questions or feedback, please contact [teddyassih@gmail.com].
+For further information, go to [unkey](https://app.unkey.com/).
