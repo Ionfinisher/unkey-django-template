@@ -50,7 +50,7 @@ This a starter Django application which implements API key verification with Unk
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ionfinisher/unkey-django-template.git
    ```
 
 2. Navigate to the project directory:
@@ -101,4 +101,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com].
+For any questions or feedback, please contact [teddyassih@gmail.com].
